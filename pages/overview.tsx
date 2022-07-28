@@ -13,7 +13,7 @@ const Overview = () => {
         link: "https://www.unblur.fr/",
         status: "",
         description:
-          "Unblur your creativity, social network for ideas validation.",
+          "Unblur your creativity, social network for ideas validation .",
         stacks: [
           "Typescript",
           "NextJs",
@@ -29,7 +29,7 @@ const Overview = () => {
         title: "Codetree",
         link: "https://codetree.vercel.app/",
         status: "",
-        description: "Lightning fast Web base code editor.",
+        description: "Lightning fast Web base code editor .",
         stacks: [
           "Redis",
           "Prisma",
